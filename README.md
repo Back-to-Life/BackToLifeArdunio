@@ -2,10 +2,11 @@
 
 Bu projede BackToLife arduino kodları yer almaktadır. Geliştirme sırasında gerçekleşen denemeleri open source kaynak olarak herkes erişebilir
 
+# License & Copyright
 
 MIT License
 
-Copyright (c) 2021 Back-to-Life
+© Copyright 2021 Back-to-Life
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
